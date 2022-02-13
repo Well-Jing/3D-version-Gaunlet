@@ -8,7 +8,7 @@ For more detailed information, you can refer to the description (PDF) in this re
 Summarise some technologies used for this project.
 All the objects in this game are rendered with Phong model.
 Shadows are rendered using PCF (percentage-closer filtering).
-Skeletal animation is also implemented with the help of Assimp (Assimp help us parsed FBX file).
+Skeletal animation is also implemented with the help of Assimp (Assimp helped us parse FBX files).
 Execpt the model of the character (from Mihoyo Genshin Impact) and the cabin (from a free 3D model site), all the models are made by me using Blender.
 The skeletal animation is also made by me in Blender.
 

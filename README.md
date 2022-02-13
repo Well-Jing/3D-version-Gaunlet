@@ -1,8 +1,9 @@
 # 3D-version-Gaunlet
 Gaunlet is a classic Arcade game. 
-This project is to create a 3D version game of Gaunlet with OpenGL.
+This project is to create a 3D version game of Gaunlet with OpenGL and C++.
 [A short demonstration](https://www.youtube.com/watch?v=OMrUBLJSWFA&t=68s) has been uploaded to Youtube.
 For more detailed information, you can refer to the description (PDF) in this repository.
+All the code are in the CG_Project1 folder, while the 3D models are in the Release folder.
 
 # Technology
 Summarise some technologies used for this project.

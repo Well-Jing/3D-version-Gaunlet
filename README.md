@@ -5,10 +5,17 @@ This project is to create a 3D version game of Gaunlet with OpenGL and C++.
 For more detailed information, you can refer to the description (PDF) in this repository.
 All the code are in the CG_Project1 folder, while the 3D models are in the Release folder.
 
+![image](https://github.com/xxxiaojing/3D-version-Gaunlet/blob/main/demo_image/screenshot1.jpg)
+![image](https://github.com/xxxiaojing/3D-version-Gaunlet/blob/main/demo_image/screenshot2.jpg)
+![image](https://github.com/xxxiaojing/3D-version-Gaunlet/blob/main/demo_image/screenshot3.jpg)
+![image](https://github.com/xxxiaojing/3D-version-Gaunlet/blob/main/demo_image/screenshot4.jpg)
+
+
 # Technology
 Summarise some technologies used for this project.
 All the objects in this game are rendered with Phong model.
 Shadows are rendered using PCF (percentage-closer filtering).
+The effects were not 
 Skeletal animation is also implemented with the help of Assimp (Assimp helped us parse FBX files).
 Execpt the model of the character (from Mihoyo Genshin Impact) and the cabin (from a free 3D model site), all the models are made by me using Blender.
 The skeletal animation is also made by me in Blender.
